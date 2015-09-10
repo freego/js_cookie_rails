@@ -1,5 +1,7 @@
 # js_cookie_rails
 
+[![Gem Version](https://badge.fury.io/rb/js_cookie_rails.svg)](http://badge.fury.io/rb/js_cookie_rails)
+
 js_cookie_rails wraps the [js-cookie](https://github.com/js-cookie/js-cookie)
 library in a rails engine for simple use with the asset pipeline provided by
 Rails 3.1 and higher. The gem includes the development (non-minified) source
